@@ -1,0 +1,6 @@
+module Pods_inventory_inventoryTests {
+  umbrella header "Pods-inventory-inventoryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
